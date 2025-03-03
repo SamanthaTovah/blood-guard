@@ -83,8 +83,7 @@ Every Blood Guard warrior wears a **Corvus Beakie helm,** reinforcing their **fa
 
 ## 🔥 Blood Guard Battle Cry & Motto 🔥
 
-🔻 **"Where we tread, no enemy remains."**  
+🔻 **"There is no life in the void..."**  
 🔻 **"The Red Eye watches."**  
-🔻 **"You cannot hide. You cannot run. You can only die."**  
 
 ---
