@@ -10,8 +10,8 @@ They strike with **surgical precision**, eliminating threats before they fester 
 - 🔴 **Deep Blood Red Armor** → Matte and battle-worn.
 - ⚫ **Black Trim, Gauntlets, and Some Backpacks** → Minimalist **stealth elements.**  
 - 🔴 **Mostly Blood Red Backpacks** → Keeps a **unified, striking aesthetic.**  
-- ⚪ **White Armour for Chaplains** → Makes them **distinct from battle line units**.
-- 🔵 **Apothecaries (if ever added)** → Would perhaps be **Dark Blue** (matching Fire Support) instead of white, to ensure visual distinction from chaplains.
+- **Mars Red**, **White**, and **Black**, **Blue** armour and helmets for Tech-Marines, Apothecaries, Chaplains, and Librarians as per usual.
+- Sergeant share the color of their squad, stand out in other ways (loadout, purity seals, avian skull)
 
 ---
 
@@ -32,7 +32,7 @@ Each unit’s **battlefield role** is clearly marked by its **right shoulder pad
 | ⚫ **Black** | Scouts & Phobos Units |
 | 🔵 **Dark Blue** | Fire Support (Hellblasters, Eradicators, Infernus Squad, etc) |
 
-- **No gold anywhere** (ensures they don’t resemble Blood Angels).  
+- **No gold anywhere**.
 
 ---
 
@@ -41,10 +41,10 @@ Every Blood Guard warrior wears a **Corvus Beakie helm,** reinforcing their **fa
 
 | **Helmet Color** | **Unit Type** |
 |---------------|--------------|
-| 🔴 **Blood Red Beakies** | Battleline Units (Intercessors, Assault Intercessors) |
-| ⚫ **Black Beakies** | Sergeants (subtle distinction without disrupting uniformity) |
-| ⚪ **Bone-White Beakies** | Veterans, Lieutenants, Captains, HQs (marking them as enforcers of the Red Eye) |
-| ⚫ **Black Helmets with White Beak ONLY** | Stealth Units (Reivers, Phobos Librarians, Incursors, Eliminators) |
+| 🔴 **Blood Red Helmets** | Battleline Units (Intercessors, Assault Intercessors) |
+| ⚪ **Bone-White Helmets** | Veterans, HQ |
+| ⚫ **Black Helmets** | Phobos unit other than Reivers, Scouts |
+| ⚫ **Death Mask Helmet** (Black Helmets with White Beaks) | Reivers  |
 
 ---
 
@@ -55,13 +55,7 @@ Every Blood Guard warrior wears a **Corvus Beakie helm,** reinforcing their **fa
 
 ---
 
-### 🔎 **Chaplains**
-- **Bone-white armor AND helmets** → Unlike Codex Astartes Chaplains, **Blood Guard Chaplains are the Red Eye’s High Enforcers, more feared than honored.**  
-- **This ensures they stand out, appearing as terrifying figures of judgment.**  
-
----
-
-## 💀 **Bird Skulls: Aesthetic, Not Uniform**
+## 💀 **Avian Skulls: Aesthetic, Not Uniform**
 - **Not part of every model**—instead, **used sparingly** on:  
   - **Veterans**  
   - **Reivers / Red Stalkers**  
@@ -84,8 +78,6 @@ Every Blood Guard warrior wears a **Corvus Beakie helm,** reinforcing their **fa
 ✅ **Ranks & roles clearly defined** → **Helmet & shoulder pad colors** provide clear battlefield differentiation.  
 ✅ **Stealth units retain a terrifying assassin look** → **Black helmets, white beaks make them pure nightmare fuel.**  
 ✅ **The Red Eye & bird skulls reinforce their role as Imperial enforcers, not just warriors.**  
-✅ **Chaplains in bone-white armor appear as truly terrifying figures of judgment.**  
-✅ **Mostly Blood Red Backpacks** → Keeps the army **unified while maintaining contrast.**  
 
 ---
 
