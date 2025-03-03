@@ -48,7 +48,7 @@ Every Blood Guard warrior wears a **Corvus Beakie helm,** reinforcing their **fa
 
 ---
 
-### 🔎 **Reivers & Phobos Units**
+### 🔎 **Reivers Units**
 - **Black Helmets with only the Beak painted White.**  
 - Gives them a **"death mask" executioner look** while keeping them **stealthy.**  
 - Makes them **more intimidating** as terror operatives.  
