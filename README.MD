@@ -16,7 +16,7 @@ They strike with **surgical precision**, eliminating threats before they fester 
 
 ---
 
-## 👁 LEft Shoulder Pad: **The Red Eye**
+## 👁 Left Shoulder Pad: **The Red Eye**
 - **Placed on the Left Shoulder Pad.**  
 - **White on red** for **high contrast and readability.**  
 - **Red on white** where free-hand is possible.
@@ -37,7 +37,7 @@ Each unit’s **battlefield role** is clearly marked by its **right shoulder pad
 
 ---
 
-## 🪖 Helmet Colors: **Rank & Role**
+## ⛑️ Helmet Colors: **Rank & Role**
 Every Blood Guard warrior wears a **Corvus Beakie helm,** reinforcing their **faceless, executioner identity.**  
 
 | **Helmet Color** | **Unit Type** |
@@ -90,6 +90,10 @@ Every Blood Guard warrior wears a **Corvus Beakie helm,** reinforcing their **fa
 
 ---
 
-## 🔥 **Blood Guard Battle Cry & Motto** 🔥
-🔻 **"The Red Eye Sees. The Red Eye Judges. The Red Eye Kills."**  
-🔻 **"Mercy is a lie. Weakness is treason. Death is the Emperor's gift."**  
+## 🔥 Blood Guard Battle Cry & Motto 🔥
+
+🔻 **"Where we tread, no enemy remains."**  
+🔻 **"The Red Eye watches."**  
+🔻 **"You cannot hide. You cannot run. You can only die."**  
+
+---
