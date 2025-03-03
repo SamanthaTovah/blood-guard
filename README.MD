@@ -10,7 +10,6 @@ They strike with **surgical precision**, eliminating threats before they fester 
 - 🔴 **Deep Blood Red Armor** → Matte and battle-worn.
 - ⚫ **Black Trim, Gauntlets, and Some Backpacks** → Minimalist **stealth elements.**  
 - 🔴 **Mostly Blood Red Backpacks** → Keeps a **unified, striking aesthetic.**  
-- ⚫ **Black Chest Plates for Phobos Units** → Enhances their **executioner and stealth aesthetic.**  
 - ⚪ **White Armour for Chaplains** → Makes them **distinct from battle line units**.
 - 🔵 **Apothecaries (if ever added)** → Would perhaps be **Dark Blue** (matching Fire Support) instead of white, to ensure visual distinction from chaplains.
 
